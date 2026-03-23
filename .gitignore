@@ -1,0 +1,9 @@
+*.log
+*.tmp
+*.bak
+.vscode/
+output/
+reports/
+secrets.json
+.env
+.env.*
